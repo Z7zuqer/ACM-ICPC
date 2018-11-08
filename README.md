@@ -1,8 +1,7 @@
-# ACM-ICPC
+# ACM-ICPC [retired]UESTC_ACMER
 ### [PART]record
 * [部分vj上没保存本地](https://vjudge.net/user/lzuqer)
 * [部分opentraining](http://opentrains.snarknews.info)
-### [retired]UESTC_ACMER
 ### 主要文件在如下的文件夹中（如果你是面试官的话）
 * BZOJ代码库
 * CF
